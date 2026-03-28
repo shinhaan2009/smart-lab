@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+easyocr
+numpy
+Pillow
+streamlit-drawable-canvas
+matplotlib
